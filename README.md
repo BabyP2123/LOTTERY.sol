@@ -1,1 +1,2 @@
-# LOTTERY.sol
+Contract Address deployed on Sepolia Testnet
+0x766EeA025166d84FCA1A2AA6Cd4EDA237F381ADF
